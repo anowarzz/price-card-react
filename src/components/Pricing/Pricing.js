@@ -48,4 +48,4 @@ const pricingOptions = [
     );
 };
 
-export default Pricing;
+export default Pricing ;
